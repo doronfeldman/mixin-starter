@@ -1,0 +1,15 @@
+{
+  "name": "mixin-starter",
+  "version": "1.0.1",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.6",
+    "fs-extra": "^3.0.1",
+    "replaceall": "^0.1.6",
+    "replacestream": "^4.0.2"
+  },
+  "bin": {
+    "mixin-starter": "index.js"
+  },
+  "license": "MIT"
+}
