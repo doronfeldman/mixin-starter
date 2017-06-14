@@ -1,6 +1,6 @@
 {
   "name": "mixin-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "colors": "^1.1.2",
     "command-line-args": "^4.0.6",
@@ -11,5 +11,6 @@
   "bin": {
     "mixin-starter": "index.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "doronfeldman/mixin-starter"
 }
